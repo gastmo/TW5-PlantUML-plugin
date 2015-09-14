@@ -1,0 +1,4 @@
+title: $:/plugins/gastmo/plantuml/config
+type: application/x-tiddler-dictionary
+
+txtPlantUmlUrl: http://localhost:8080/plantuml/img/

@@ -1,0 +1,26 @@
+title: $:/plugins/gastmo/plantuml/tests
+type: application/x-tiddler
+
+<<plantuml "
+Bob -> Alice: hello
+" "src">>
+
+<<plantuml "
+title A Use Case
+left to right direction
+actor Reader
+
+rectangle System {
+usecase ReadBook
+}
+Reader -right-> ReadBook: use
+" "src">>
+
+<<plantuml "
+@startdot
+digraph X {
+Sun -> Mercury -> Venus -> Earth -> Mars -> Jupiter -> Saturn -> Uranus -> Neptune;
+Earth -> Moon;
+}
+@enddot
+" "src">>

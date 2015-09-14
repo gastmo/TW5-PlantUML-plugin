@@ -1,0 +1,9 @@
+{
+    "title": "$:/plugins/gastmo/plantuml",
+    "description": "TiddlyWiki5 plugin for PlantUML to draw UML and other diagrams with a simple and intuitive language.",
+    "author": "gastmo",
+    "version": "0.0.1",
+    "core-version": ">=5.0.8",
+    "source": "https://github.com/gastmo/plantuml",
+    "plugin-type": "plugin"
+}

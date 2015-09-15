@@ -40,4 +40,4 @@ Bob --> Alice: Authentication Response
 
 ... displays as ...
 
-![simple sequence diagram](imgage\simple-sequence-diagram.png)
+![simple sequence diagram](image\simple-sequence-diagram.png)
